@@ -1,0 +1,36 @@
+page-profile {
+
+	ion-header
+	{
+		ion-navbar
+		{
+
+		}
+
+		&:after
+		{
+			display: none !important;
+		}
+	}
+
+
+	.profile-list{
+		margin-top: 16px;
+
+		.list-icon {
+			display: flex;
+			align-items: center;
+			grid-column-gap: 10px;
+			line-height: 20px;
+			font-size: 14px;
+			margin-bottom: 10px;
+		}
+	}
+
+	
+.Emp-align{
+	padding: 10px 10px;
+}
+
+
+}
