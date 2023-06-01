@@ -1,0 +1,1 @@
+# magsol_loyalty_ios_app
